@@ -5,7 +5,7 @@ const userProfile = {
     email : 'michaeljackson@gmail.ru',
     age : 34,
     isLoggedIn : true
-}
+};
 
 console.log(userProfile.email);
 
