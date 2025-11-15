@@ -23,6 +23,6 @@ function getStudentReport(studentsList){
         newList.push(newObj);
     }
 
-    return newList
+    return newList;
 }
 
